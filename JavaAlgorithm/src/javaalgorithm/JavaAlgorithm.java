@@ -4,6 +4,7 @@ package javaalgorithm;
  * This class +++Insert Description Here+++ testing
  *
  * @author Yan Zhang testing pull 
+ * testing merge .branch
  * 
  * yan's branch
  */
