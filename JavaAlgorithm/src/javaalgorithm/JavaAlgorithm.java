@@ -3,9 +3,8 @@ package javaalgorithm;
 /**
  * This class +++Insert Description Here+++ testing
  *
- * @author Yan Zhang testing pull 
- * 
- * yan's branch
+ * @author Yan Zhang testing pull
+ *     <p>yan's branch
  */
 public class JavaAlgorithm {
 
