@@ -4,8 +4,7 @@ package javaalgorithm;
  * This class +++Insert Description Here+++ testing
  *
  * @author Yan Zhang testing pull
- *     <p>yan's branch
- * geting merged
+ *     <p>yan's branch geting merged
  */
 public class JavaAlgorithm {
 
