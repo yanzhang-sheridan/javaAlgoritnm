@@ -1,8 +1,8 @@
 package javaalgorithm;
 
 /**
- * This class +++Insert Description Here+++ testing
- *testing merge
+ * This class +++Insert Description Here+++ testing testing merge
+ *
  * @author Yan Zhang testing pull
  */
 public class JavaAlgorithm {
